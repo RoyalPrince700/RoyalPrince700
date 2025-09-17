@@ -6,7 +6,6 @@ I’m a **Full-Stack Developer** passionate about building scalable, user-friend
 
 ## 🚀 About Me
 
-* 🌍 Based in Nigeria, working remotely worldwide
 * 💻 Skilled in **React, Next.js, Node.js, Express, MongoDB, Tailwind CSS**
 * 🔌 Experienced with **payment integration, real-time apps, and cloud deployment**
 * 🛠 Focused on **clean architecture, responsive design, and performance optimization**
