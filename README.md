@@ -16,8 +16,38 @@ I’m a **Full-Stack Developer** passionate about building scalable, user-friend
 
 ## 🧑‍💻 Skills & Tools
 
-**Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS, Framer Motion
-**Backend:** Node.js, Express, MongoDB, Supabase
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+* **React (18/19)** with Hooks, Context API, Redux Toolkit
+* **Next.js** for server-side rendering and performance
+* **Tailwind CSS** for utility-first, responsive styling
+* **Framer Motion** for animations and smooth micro-interactions
+* **Vite** for lightning-fast builds and modern workflows
+* **Responsive Design** (mobile-first, cross-browser compatibility)
+* **Component-Driven Architecture** with reusable, scalable UI elements
+
+### ⚙️ Backend Development
+
+* **Node.js & Express.js** for RESTful APIs and scalable server architecture
+* **MongoDB + Mongoose** for NoSQL database design and modeling
+* **Supabase** for authentication, storage, and real-time features
+* **JWT Authentication** with role-based access control
+* **Socket.io** for real-time chat and notifications
+* **Payment Integrations** (Stripe, Flutterwave, Mobile Money)
+* **Cloudinary** for file/image management
+* **Security Practices** (Helmet.js, input validation, CORS, rate limiting)
+* **Deployment** with Vercel, Netlify, and cloud environments
+
+### 📊 Other Skills
+
+* Database architecture & schema design
+* API integration (3rd party services, custom APIs)
+* SEO-friendly, production-ready applications
+* Git & GitHub workflow (branches, PRs, version control)
+* Agile collaboration (Trello, Jira, Slack)
+
 **Other Tools:** Stripe, Flutterwave, Firebase, Cloudinary, Git/GitHub, Vite
 **Design:** Figma, Responsive UI/UX, Accessibility Standards
 
